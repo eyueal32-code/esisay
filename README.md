@@ -247,7 +247,7 @@
     <div class="actions">
       <!-- Replace these three links with your real ones -->
       <a class="btn primary" href="mailto:you@umd.edu">Email me</a>
-      <a class="btn" href="https://github.com/YOUR-USERNAME">GitHub</a>
+      <a class="btn" href="https://github.com/eyueal32-code">GitHub</a>
       <a class="btn" href="https://www.linkedin.com/in/YOUR-PROFILE">LinkedIn</a>
     </div>
   </section>
