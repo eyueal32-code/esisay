@@ -5,6 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Eyueal Sisay</title>
 <meta name="description" content="Eyueal Sisay: computer science student at the University of Maryland, focused on cybersecurity and robotics.">
+<meta property="og:site_name" content="Eyueal Sisay">
+<meta property="og:title" content="Eyueal Sisay — Personal Website">
+<meta property="og:description" content="Eyueal Sisay is a University of Maryland computer science student exploring software, robotics, and cybersecurity.">
+<meta property="og:type" content="website">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,700;12..96,800&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet">
